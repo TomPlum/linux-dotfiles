@@ -118,3 +118,8 @@ fi
 
 # Linux Dot Files Git Repository Alias
 alias config='/usr/bin/git --git-dir=/home/tom/.cfg/ --work-tree=/home/tom'
+
+# Terminal Aliases
+
+alias settings='gnome-control-center'
+cls='clear'
