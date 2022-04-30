@@ -123,3 +123,8 @@ alias config='/usr/bin/git --git-dir=/home/tom/.cfg/ --work-tree=/home/tom'
 
 alias settings='gnome-control-center'
 cls='clear'
+bashcfg='sudo nano ~/.bashrc'
+bashrefresh='. ~/.bashrc'
+#apt-history='grep \" install \" /var/log/apt/history.log'
+python='python3'
+mountnas='sudo mount 192.168.1.111:/volume1/video /media/nas/video/'

@@ -1,3 +1,5 @@
+#!/bin/sh
+
 # Configure Pulse Audio Settings - Discord Screen Share
 
 # Sink = Audio Output (Screen Share)
