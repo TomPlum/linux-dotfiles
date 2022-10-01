@@ -1,3 +1,10 @@
 [user]
 	name = TomPlum
 	email = Thomas.Plumpton@Hotmail.co.uk
+[core]
+	autocrlf = input
+[safe]
+	directory = /media/1tbint/git
+	directory = /media/1tbint/git/learnjapanese
+	directory = /media/1tbint/git/learn-japanese
+	directory = /media/1tbint/git/learn-japanese-api
